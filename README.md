@@ -102,7 +102,7 @@ Na pasta do projeto, digite:
 4) Instalar os requisitos do projeto da seguinte maneira:
   
 ```
- pip -r requirements.txt
+ pip install -r requirements.txt
 ```
 
 
