@@ -1,4 +1,3 @@
-[![Run Tests](https://github.com/rodrigoclira/employee-manager-app-v1/actions/workflows/python-app.yml/badge.svg)](https://github.com/rodrigoclira/employee-manager-app-v1/actions/workflows/python-app.yml)
 
 # Luizalabs Employee Manager Application 
 
