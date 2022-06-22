@@ -1,3 +1,5 @@
+[![Run Tests](https://github.com/rodrigoclira/employee-manager-app-v1/actions/workflows/python-app.yml/badge.svg)](https://github.com/rodrigoclira/employee-manager-app-v1/actions/workflows/python-app.yml)
+
 # Luizalabs Employee Manager Application 
 
 Desenvolvimento de uma web app 'fictícia' em Python & Django Rest Framework que simulará uma aplicação que gerenciará as informações do funcionários através de uma API que permita integrá-la a outros sistemas. 
